@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; 
+       color: #203449; background: #f4f8fb; } 
+header { background: #155e75; color: white; padding: 24px; } 
+main { margin: 24px auto; max-width: 760px; padding: 22px; 
+       background: white; border-radius: 12px; } 
+h2 { color: #155e75; } 
+footer { text-align: center; padding: 16px; color: #536778; }
